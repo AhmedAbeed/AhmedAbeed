@@ -4,28 +4,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A73E8,100:00C853&height=220&section=header&text=Ahmed%20Abed&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%93%B1+Flutter+%26+Dart+Developer;%F0%9F%8E%A8+Building+Beautiful+Mobile+Apps;%F0%9F%9A%80+Passionate+About+Clean+Code;%F0%9F%8C%9F+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=600&lines=Flutter+%26+Dart+Developer;Building+Beautiful+Mobile+Apps;Passionate+About+Clean+Code;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
 ```yaml
 name: Ahmed Abed
 username: AhmedAbeed
 role: Flutter Developer | Mobile App Engineer
-location: Egypt 🇪🇬
+location: Egypt
 currently_working_on: Mobile Applications with Flutter
 learning: Advanced Flutter, State Management, Clean Architecture
 looking_to_collaborate_on: Flutter & Dart Open Source Projects
-fun_fact: I turn coffee into beautiful mobile apps ☕→📱
+fun_fact: I turn coffee into beautiful mobile apps
 ```
 
 <div align="center">
 
-| 🔭 Currently Working On | 🌱 Learning | 💬 Ask Me About |
+| Currently Working On | Learning | Ask Me About |
 |:---:|:---:|:---:|
 | Mobile Apps with Flutter | Clean Architecture & Design Patterns | Flutter, Dart, Mobile Development |
 
@@ -33,17 +33,17 @@ fun_fact: I turn coffee into beautiful mobile apps ☕→📱
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 📱 Mobile Development
+### Mobile Development
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase)](https://skillicons.dev)
 
-### 🌐 Web & Backend
+### Web & Backend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux)](https://skillicons.dev)
 
 </div>
@@ -62,7 +62,7 @@ fun_fact: I turn coffee into beautiful mobile apps ☕→📱
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -80,27 +80,7 @@ fun_fact: I turn coffee into beautiful mobile apps ☕→📱
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedAbeed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbeed&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedAbeed/AhmedAbeed/output/github-snake-dark.svg">
@@ -110,7 +90,7 @@ fun_fact: I turn coffee into beautiful mobile apps ☕→📱
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -123,7 +103,7 @@ fun_fact: I turn coffee into beautiful mobile apps ☕→📱
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -139,7 +119,7 @@ fun_fact: I turn coffee into beautiful mobile apps ☕→📱
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedAbeed&color=1A73E8&style=for-the-badge&label=PROFILE+VIEWS)
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A73E8,100:00C853&height=120&section=footer" width="100%" />
 
