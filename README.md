@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A73E8,100:00C853&height=220&section=header&text=Ahmed%20Abed&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20Application%20Developer%20%7C%20Flutter%20%26%20Android&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A73E8,100:00C853&height=220&section=header&text=Ahmed%20Abed&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20Application%20Developer%20%7C%20Flutter%20and%20Android&descSize=18&descAlignY=55&descAlign=50&v=2" width="100%" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=600&lines=Mobile+Application+Developer;Flutter+%26+Dart+Specialist;Android+SDK+%26+Kotlin+Multiplatform;Clean+Architecture+%26+BLoC%2FCubit)](https://git.io/typing-svg)
