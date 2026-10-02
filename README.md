@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A73E8,100:00C853&height=220&section=header&text=Ahmed%20Abed&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A73E8,100:00C853&height=220&section=header&text=Ahmed%20Abed&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20Application%20Developer%20%7C%20Flutter%20%26%20Android&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=600&lines=Flutter+%26+Dart+Developer;Building+Beautiful+Mobile+Apps;Passionate+About+Clean+Code;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=600&lines=Mobile+Application+Developer;Flutter+%26+Dart+Specialist;Android+SDK+%26+Kotlin+Multiplatform;Clean+Architecture+%26+BLoC%2FCubit)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,19 +15,19 @@
 ```yaml
 name: Ahmed Abed
 username: AhmedAbeed
-role: Flutter Developer | Mobile App Engineer
-location: Egypt
-currently_working_on: Mobile Applications with Flutter
-learning: Advanced Flutter, State Management, Clean Architecture
-looking_to_collaborate_on: Flutter & Dart Open Source Projects
-fun_fact: I turn coffee into beautiful mobile apps
+title: Mobile Application Developer
+education: B.Sc. in Computer Science - New Mansoura University (Honors)
+location: Mansoura, Egypt
+focus: Cross-Platform Mobile Apps (Android & iOS), Clean Architecture, State Management
+communities: GDG on Campus, ITI Alum
+interests: Flutter, Dart, Kotlin Multiplatform (KMP), Scalable App Architecture
 ```
 
 <div align="center">
 
-| Currently Working On | Learning | Ask Me About |
+| Focus Area | State Management & Architecture | Backend & Cloud |
 |:---:|:---:|:---:|
-| Mobile Apps with Flutter | Clean Architecture & Design Patterns | Flutter, Dart, Mobile Development |
+| Cross-Platform Mobile (Android & iOS) | BLoC / Cubit, Provider, Clean Architecture | Firebase (Auth, Firestore, Cloud Messaging), REST APIs |
 
 </div>
 
@@ -37,14 +37,17 @@ fun_fact: I turn coffee into beautiful mobile apps
 
 <div align="center">
 
-### Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase)](https://skillicons.dev)
+### Mobile & Cross-Platform
+[![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio)](https://skillicons.dev)
 
-### Web & Backend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=dart,kotlin,python,java,cpp,cs,js)](https://skillicons.dev)
 
-### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux)](https://skillicons.dev)
+### Backend, Database & Cloud
+[![Backend Skills](https://skillicons.dev/icons?i=firebase,laravel,mysql,sqlite,nodejs)](https://skillicons.dev)
+
+### Tools, Workflow & Design
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux)](https://skillicons.dev)
 
 </div>
 
@@ -52,11 +55,25 @@ fun_fact: I turn coffee into beautiful mobile apps
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![BLoC / Cubit](https://img.shields.io/badge/BLoC%20%2F%20Cubit-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+[![movies-master](https://github-readme-stats.vercel.app/api/pin/?username=AhmedAbeed&repo=movies-master&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AhmedAbeed/movies-master)
+[![trainapp](https://github-readme-stats.vercel.app/api/pin/?username=AhmedAbeed&repo=trainapp&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AhmedAbeed/trainapp)
+[![WeFlutter-Project](https://github-readme-stats.vercel.app/api/pin/?username=AhmedAbeed&repo=WeFlutter-Project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AhmedAbeed/WeFlutter-Project)
+[![questionnaire-system](https://github-readme-stats.vercel.app/api/pin/?username=AhmedAbeed&repo=questionnaire-system&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AhmedAbeed/questionnaire-system)
 
 </div>
 
@@ -85,21 +102,8 @@ fun_fact: I turn coffee into beautiful mobile apps
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedAbeed/AhmedAbeed/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedAbeed/AhmedAbeed/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/AhmedAbeed/AhmedAbeed/output/github-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AhmedAbeed/AhmedAbeed/output/github-snake.svg">
 </picture>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-[![movies-master](https://github-readme-stats.vercel.app/api/pin/?username=AhmedAbeed&repo=movies-master&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AhmedAbeed/movies-master)
-[![questionnaire-system](https://github-readme-stats.vercel.app/api/pin/?username=AhmedAbeed&repo=questionnaire-system&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AhmedAbeed/questionnaire-system)
-[![trainapp](https://github-readme-stats.vercel.app/api/pin/?username=AhmedAbeed&repo=trainapp&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AhmedAbeed/trainapp)
-[![WeFlutter-Project](https://github-readme-stats.vercel.app/api/pin/?username=AhmedAbeed&repo=WeFlutter-Project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AhmedAbeed/WeFlutter-Project)
-
-</div>
 
 ---
 
@@ -107,9 +111,9 @@ fun_fact: I turn coffee into beautiful mobile apps
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AhmedAbeed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedabeed/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedAbeed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.abed.h20@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmeedaabeed@gmail.com)
 
 </div>
 
